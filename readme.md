@@ -1,6 +1,9 @@
 ## Weblap Beadandó (dátum)
 # Élő Webcím: 
 
+## Accessibilty:
+<div style="text-align: center;"> Lighthouse test </div>
+
 ## Oldalak:
 - Main/Főoldal:
 - 1

@@ -2,7 +2,7 @@
 # Élő Webcím: 
 
 ## Accessibilty:
-<div style="text-align: center;"> Lighthouse test </div>
+<p style="text-align: center;"> Lighthouse test </p>
 
 ## Oldalak:
 - Main/Főoldal:

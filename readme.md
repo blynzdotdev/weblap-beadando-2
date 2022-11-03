@@ -2,7 +2,6 @@
 # Élő Webcím: 
 
 ## Accessibilty:
-<p style="text-align: center;"> Lighthouse test </p>
 
 ## Oldalak:
 - Main/Főoldal:
@@ -34,6 +33,7 @@
 - 5
 
 ## Made with love by:
+[@blynzdotdev](https://github.com/blynzdotdev)
 
 ## LICENSE:
 ###### This Project is under GNU-GPL Licence, its free and open source and without any warranty. 

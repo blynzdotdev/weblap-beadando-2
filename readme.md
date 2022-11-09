@@ -1,4 +1,4 @@
-## Weblap Beadandó (dátum): Marvel filmek unverzuma, rajongoi/fandom lap
+## Weblap Beadandó 2022.Nov.29: Marvel filmek unverzuma, rajongoi/fandom lap
 # Élő Webcím: 
 
 ## Accessibilty:

@@ -1,4 +1,4 @@
-## Weblap Beadandó (dátum)
+## Weblap Beadandó (dátum): Marvel filmek unverzuma, rajongoi/fandom lap
 # Élő Webcím: 
 
 ## Accessibilty:

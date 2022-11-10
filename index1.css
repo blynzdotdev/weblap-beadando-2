@@ -1,0 +1,83 @@
+/* egymas mellett lévő navbar */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0ba8f0;
+  width:70%;
+}
+
+li {
+  float: center;
+  display: inline;
+}
+
+li a {
+  display:inline-block;
+  color:white;
+  text-align: center;
+  padding:5px 50px;
+  text-decoration:none;
+  text-shadow: 2px 2px 2px black;
+}
+li a:hover {
+  background-color: #9a9a9a;
+  text-decoration:underline;
+  color:#efa507;
+}
+/* egymas mellett lévő navbar */
+
+body {
+  background-image:url(https://media.discordapp.net/attachments/938436612075978813/1040278156541698069/hatter.jpg);
+  background-color:orange;
+  background-repeat:repeat;
+
+}
+
+img {
+  width:15px;
+  height:15px;
+}
+
+/* keszitette: */
+.footer {
+  position: fixed;
+  bottom: 1px;
+  left: 0;
+  right: 0;
+  height: 15px;
+  line-height: 15px;
+  font-size: 1;
+  background: #0ba8f0;
+  color: white;
+  text-align: center;
+}
+
+/* content */
+.fooldaltabla {
+  align-self:center;
+  width:100%;
+}
+.fooldaladat {
+  width:15px;
+  text-align:center;
+}
+.fooldaltexttabla {
+  text-align:justify;
+  width:70%;
+}
+.fontmain {
+  color:white;
+  font-size: 6;
+  row-gap: 3px;
+  text-shadow: 2px 2px 2px black;
+}
+
+/* vonal */
+hr {
+  color:#0ba8f0;
+  width:100%;
+  size:3px;
+  align-self:center;
+}

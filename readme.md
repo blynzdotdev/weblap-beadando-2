@@ -10,7 +10,7 @@
 - Képregények: [LINK](http://mavoe.eu/webprog/marvel/Aloldalak/kepregenyek.html)
 - Források: [LINK](http://mavoe.eu/webprog/marvel/Aloldalak/forrasok.html)
 
-- Backend CSS:
+- Backend CSS: [LINK](http://mavoe.eu/webprog/marvel/index1.css)
 
 ## Követelmények:
 - 1 főoldal

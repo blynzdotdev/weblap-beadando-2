@@ -5,10 +5,10 @@
 
 ## Oldalak:
 - Main/Főoldal: [LINK](http://mavoe.eu/webprog/marvel/index.html)
-- Szereplők: [LINK](http://mavoe.eu/webprog/marvel/Aloldalak/szereplok.html
+- Szereplők: [LINK](http://mavoe.eu/webprog/marvel/Aloldalak/szereplok.html)
 - Mozifilmek: [LINK](http://mavoe.eu/webprog/marvel/Aloldalak/mozifilmek.html)
-- Képregények: [LINK](http://mavoe.eu/webprog/marvel/Aloldalak/kepregenyek.htmlÖ
-- Források: [LINK](http://mavoe.eu/webprog/marvel/Aloldalak/forrasok.htmlÖ
+- Képregények: [LINK](http://mavoe.eu/webprog/marvel/Aloldalak/kepregenyek.html)
+- Források: [LINK](http://mavoe.eu/webprog/marvel/Aloldalak/forrasok.html)
 
 - Backend CSS:
 

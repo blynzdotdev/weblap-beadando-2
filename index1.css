@@ -113,3 +113,27 @@ hr {
   height:100%;
 }
 /* oscar kép embed */
+/* aloldaltext */
+.aloldaltexttabla {
+  width:70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* aloldaltext */
+/* összevont 3 td a 3 kép felé, mozifilmek aloldal */
+.mozifilm_td {
+  text-align:justify;
+}
+/* összevont 3 td a 3 kép felé, mozifilmek aloldal */
+/* link kiemeles mozifil alodlalon */
+.rottenscore {
+  color:greenyellow;
+  text-shadow: 1px 1px 1px black;
+}
+/* link kiemeles mozifil alodlalon */
+/* mozifilmek aloldal, poszter size */
+.poszter {
+  width:225px;
+  height:400px;
+}
+/* mozifilmek aloldal, poszter size */

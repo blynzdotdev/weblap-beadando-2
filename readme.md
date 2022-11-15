@@ -1,4 +1,4 @@
-## Weblap Beadandó 2022.Nov.29: Marvel filmek unverzuma weblap
+## Weblap Beadandó 2022.Nov.29 marvel.fandom
 # Élő Webcím: http://mavoe.eu/webprog/marvel/index.html
 
 ## Accessibilty:
@@ -24,13 +24,13 @@
 
 ## Kód források/ötletek:
 - https://marveluniverseproject.000webhostapp.com/index.html
-- 2
+- https://marvel.fandom.com/wiki/Marvel_Database
 - 3
 - 4
 - 5
 
 ## Képek/Szöveg/Videók forrása:
-- 1
+- https://hu.wikipedia.org/wiki/Marvel-moziuniverzum
 - 2
 - 3
 - 4

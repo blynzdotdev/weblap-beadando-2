@@ -27,7 +27,7 @@ li a:hover { /*amikor ra viszed az egeret */
 /* keszitette: */
 .footer {
   position:relative;
-  bottom: 0px;
+  bottom: 0;
   left: 0;
   right: 0;
   height: 15px;
@@ -60,8 +60,10 @@ li a:hover { /*amikor ra viszed az egeret */
 body {
   background-image:url(https://media.discordapp.net/attachments/938436612075978813/1040278156541698069/hatter.jpg);
   background-color: #E8BEAC;
-  background-repeat:repeat;
-
+  background-repeat: space;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
 }
 /* content */
 /* vonal-szovegbe */

@@ -1,7 +1,11 @@
 ## Weblap Beadandó 2022.Nov.29 marvel.fandom
 # Élő Webcím: http://mavoe.eu/webprog/marvel/index.html
+![Méret](https://img.shields.io/github/repo-size/blynzdotdev/weblap-beadando-2)
+![Élő](https://img.shields.io/website?url=https%3A%2F%2Fmavoe.eu%2Fwebprog%2Fmarvel%2Findex.html)
+![Nyelv](https://img.shields.io/badge/Language-HTML%20%26%20CSS-brightgreen)
+![License](https://img.shields.io/github/license/blynzdotdev/weblap-beadando-2?color=brightgreen)
 
-## Accessibilty:
+## Accessibilty: (Lighthouse Test)
 
 ## Oldalak:
 - Main/Főoldal: [LINK](http://mavoe.eu/webprog/marvel/index.html)

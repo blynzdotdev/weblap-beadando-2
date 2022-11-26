@@ -117,7 +117,7 @@ hr {
 /* oscar kép embed */
 /* aloldaltext */
 .aloldaltexttabla {
-  width:70%;
+  width: 70%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -139,3 +139,14 @@ hr {
   height:400px;
 }
 /* mozifilmek aloldal, poszter size */
+/* szereplok.html karaker png meret */
+.karakterposzter {
+  height: 350px;
+  width: 295px;
+}
+.karakterposzter_tabla {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  border: 0px;
+}

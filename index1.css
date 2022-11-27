@@ -30,8 +30,7 @@ li a:hover { /*amikor ra viszed az egeret */
   bottom: 0;
   left: 0;
   right: 0;
-  height: 15px;
-  line-height: 15px;
+  height: 30px;
   font-size: 1;
   background: #0ba8f0;
   color: black;
@@ -153,3 +152,11 @@ hr {
   border: 0px;
 }
 /* szereplok.html szoveg resz */
+.h1title {
+  color: white;
+  row-gap: 3px;
+  text-shadow: 2px 2px 2px black;
+}
+.forrasokblokk {
+  margin-left: 2cm;
+}

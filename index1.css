@@ -152,11 +152,15 @@ hr {
   border: 0px;
 }
 /* szereplok.html szoveg resz */
+/* h1 textshadow */
 .h1title {
   color: white;
   row-gap: 3px;
   text-shadow: 2px 2px 2px black;
 }
+/* h1 textshadow */
+/*forrasok lista formázás */
 .forrasokblokk {
   margin-left: 2cm;
 }
+/*forrasok lista formázás */

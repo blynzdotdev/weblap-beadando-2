@@ -6,6 +6,7 @@
 ![License](https://img.shields.io/github/license/blynzdotdev/weblap-beadando-2?color=brightgreen)
 
 ## Accessibilty: (Lighthouse Test)
+![picture](https://media.discordapp.net/attachments/938436612075978813/1047195104856788992/image.png)
 
 ## Oldalak:
 - Main/Főoldal: [LINK](http://mavoe.eu/webprog/marvel/index.html)
